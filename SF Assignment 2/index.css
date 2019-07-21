@@ -1,0 +1,178 @@
+body{
+	background-color: white;
+	margin-left: 59px;
+	margin-right: 59px;
+	margin-top:59px;
+	font-size: 20px;
+}
+.top{
+ max-height: 100px;}
+.logo{
+ margin: 10px 10px;}
+ .fly{
+ 	float: right;}
+.sign{
+	background-color: rgb(204, 0, 0);
+}
+.a{font-size:110%;
+font-family: 'Roboto', sans-serif;
+color: #fff;
+display: inline-block;
+margin-top:1%;
+margin-left: 1%;
+   }
+.b1{background-color: rgba(0,0,0,0.4);
+   display: inline-block;
+   width: 26%;
+   padding: 2% 2%;
+   height:auto;
+margin-top:2%;
+margin-bottom:2%;}
+   .text{width:100%;
+         height: 25px;}
+.text2{width:100%;
+         height: 25px;
+        margin-top:4%;}
+ .rem{font-size: 70%;
+      color: #fff;}       
+.tab{width:100%;
+         height: 30px;
+        margin-top:4%;
+      background-color:orange;
+      text-align: center;
+      color: #fff;font-size:120%;
+      font-weight:bold;
+      padding: 0.5% 0.5%;font-family: 'Roboto', sans-serif;}
+ .first{text-align: center;
+ 	    color:white;
+ 	    font-size: 150%;
+ 	    border-bottom:solid;
+ 	    border-bottom-width: 1px;
+ 	    margin-left: 400px;font-family: 'Roboto', sans-serif;} 	    
+
+.word{color:white;
+    font-size:130%;
+    text-align:center;
+   margin-top: 0px;
+   font-weight: bold;font-family: 'Roboto', sans-serif;}    
+.tab2{width: 100%;
+         height: 30px;
+        margin-top:4%;
+      background-color:#0091E7;
+      text-align: center;
+      color: #fff;
+      font-size:120%;
+      font-weight:bold;padding: 0.5% 0.5%;font-family: 'Roboto', sans-serif;}
+.b2{background-color: rgba(0,0,0,0.4);
+   display: inline-block;
+   width: 26%;
+   padding: 2% 2%;
+height:80px:;
+margin-bottom:0%;}
+.b3{background-color: rgba(0,0,0,0.4);
+   display: inline-block;
+   width: 26%;
+   padding: 2% 2%;
+height:80px;
+margin-top:0%;
+margin-bottom:0%;
+margin-left:4%;}      
+.part2{background-color:#0091E7;  font-size:160%;
+      font-family: 'Roboto', sans-serif;
+      color: #fff;
+      font-weight:bold;padding: 0.5% 0.5%;
+
+}
+.video{margin:2% 2%;}     
+.heading{font-size: 160%;
+        color: red;
+        font-family: 'Roboto', sans-serif;
+        font-weight: lighter;
+        text-align: center;
+        margin-top: 2%;}
+
+.image{display: inline-block;
+      width: 20%;
+      text-align: center;
+      margin-left: 1.5%;}
+.subtext{font-size:130%;
+         color:red;
+         text-align: center;}
+.part4{background-color: rgba(0,0,0,0.1);}
+.i2{border-bottom:solid;
+   border-bottom-width: 1px;
+   border-color: red;}
+.bar{
+    float: right;
+    max-width:28%;
+    max-height: 420px;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    overflow: auto;}
+.bar img{max-width:100%;
+	     margin-left:0px;
+
+     }
+.videobox{max-width:60%;}
+.total{margin-top:2%;
+      background-color:rgba(0,0,0,0.1);}
+.column{font-family: 'Roboto', sans-serif;
+        border-right:solid;border-color:red;display: inline-block;border-right-width:1px;
+        max-height: 10%;
+        max-width:60%; 
+        text-align:center;
+        padding: 2% 4%;}
+.column a{text-decoration: none;
+          color:black;font-weight: lighter;}
+.left{float: left;
+     color:#0091E7 ;font-size:130%;
+    text-align:center;
+   margin-top: 0px;font-family: 'Roboto', sans-serif;
+   font-weight: bold;
+   width:48%;
+   padding: 0.5% 0.5%;}
+.right{float:right;
+     color:orange ;
+     font-size:130%;
+    text-align:center;
+   margin-top: 0px;font-family: 'Roboto', sans-serif;
+   font-weight: bold;
+   width:48%; 
+   padding: 0.5% 0.5%;}  
+.base{
+  display:inline-block;margin-top:50px;
+  width:24%;
+  height:125px;
+  padding: 1% 0%;
+  font-size:80%;
+  text-align: bottom;
+  border-right:solid;
+  border-color:white;
+}
+.base a{text-decoration: none;
+  font-family: 'Roboto', sans-serif;color: black;
+  }  
+.base a:hover{color:orange;}
+.foot{margin-top: 20px;
+      font-size:90%;
+      font-weight: lighter;}
+.foot a{text-decoration: none;
+       color:black;}
+.foot a:hover{color: orange;}
+
+
+
+@media only screen and (max-width: 745px){
+  .tab{font-size:80%; 
+  }
+.tab2{font-size:80%;}
+}
+@media only screen and (max-width: 1125px){
+  .bar{display: none; 
+  }}
+@media only screen and (max-width: 769px){
+	.fly{display: none; 
+	}}
+@media (max-width: 1026px){
+	body{margin-left: 0px;}
+}	

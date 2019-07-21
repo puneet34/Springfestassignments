@@ -1,0 +1,40 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+header{background-image:url('shatterhorn.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;}
+.content{
+    color: #fff;
+    font-size: 230%;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    padding: 40px;
+    text-shadow: 4px 4px 8px #000000;
+    font-family: 'Special Elite', cursive;
+    text-align: center;}
+.contenta{
+    color: #fff;
+    font-size: 230%;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    padding: 40px;
+    text-shadow: 4px 4px 8px #000000;
+    font-family: 'Special Elite', cursive;
+    text-align: center;}
+.image{
+padding: 20px 350px;
+text-align: center; 
+}
+.contenta a{
+text-decoration: none;
+color: white;
+}
+.content{-webkit-animation-duration:4s;
+-webkit-animation-delay:1s;}
+.contenta {
+-webkit-animation-delay:3s;}
+.image{-webkit-animation-duration:5s;}

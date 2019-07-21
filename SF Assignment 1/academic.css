@@ -1,0 +1,56 @@
+*{margin: 0px;
+padding: 0px;}
+body{background-image: url("maxresdefault.jpg"); background-size: cover; background-repeat: no-repeat;}
+.menu{width: 100%;
+	  height: 100px;
+	background-color: rgba(0,0,0,0.5);
+
+}
+.Portfolio{color:#fff;
+font-family: 'Orbitron', sans-serif;
+border: solid;
+float: left;
+margin: 10px 10px;
+padding: 10px 10px;}
+.right{
+	width: 75%;
+	height: 100px;
+	float: right;
+}
+.right ul li {font-family: 'Orbitron', sans-serif;
+    display: inline-block;
+    list-style: none;
+	font-size: 20px;
+	color:white;
+	float: right;
+	margin: 10px 10px;
+	padding: 10px 10px;
+    font-weight: bold;}
+	.right ul li a{text-decoration: none;}
+#firstlist{
+	color: orange;
+
+}
+.right ul li:hover{color: orange;}
+.image{
+	float:left;
+	margin-left:20px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+}
+p{font-family: 'Amatic SC', cursive;
+  color: #fff;
+  font-weight: bold;
+  font-size: 40px;
+  padding: 15px;
+  margin: 50px;
+  margin-top: 125px;
+  background-color: rgba(0,0,0,0.5);}
+ .co {color: red;
+ 	font-weight: bold;
+ 	font-family: 'Luckiest Guy', cursive;
+ 	font-size: 40px;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	text-align: center;
+ 	margin-top:100px; } 
